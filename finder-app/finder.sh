@@ -37,7 +37,7 @@ then
 	echo "$filesdir exists and is a DIR! :)"
 	#exit 0 #used to test sesecond loop
 else
-	echo "$filesdir is not a DIR or doesnt exist. :("
+	#echo "$filesdir is not a DIR or doesnt exist. :("
 	exit 1
 fi
 
